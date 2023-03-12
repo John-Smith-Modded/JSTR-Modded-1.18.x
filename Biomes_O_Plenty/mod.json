@@ -1,0 +1,10 @@
+{
+  "mod_id": "biomesoplenty",
+  "mod_name": "Biomes O' Plenty",
+  "mod_dir": "/Biomes_O_Plenty/",
+  "mod_version": "v16.0.0.134 ",
+  "mc_version": "1.18.2",
+  "mod_authors": ["Adubbz", "Amnet", "Cheeserolls", "Forstride", "ted80", "GlitchfiendMods "],
+  "url_website": "http://minecraft.curseforge.com/projects/biomes-o-plenty",
+  "description": "Adds a huge amount of new biomes, blocks, and more!"
+}
