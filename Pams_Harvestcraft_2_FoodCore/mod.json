@@ -1,0 +1,10 @@
+{
+  "mod_id": "pamhc2foodcore",
+  "mod_name": "Pam's HarvestCraft 2 - Food Core",
+  "mod_dir": "/Pams_Harvestcraft_2_FoodCore/",
+  "mod_version": "v1.0.3",
+  "mc_version": "1.18.2",
+  "mod_authors": ["Pamela Collins", "pamharvestcraft"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core",
+  "description": "Expanding minecraft's food system."
+}
