@@ -1,0 +1,10 @@
+{
+  "mod_id": "botania",
+  "mod_name": "Botania",
+  "mod_dir": "/Botania/",
+  "mod_version": "v1.18.2-435",
+  "mc_version": "1.18.2",
+  "mod_authors": ["Vazkii"],
+  "url_website": "https://quarkmod.net/",
+  "description": "Botania is a mod that adds nature magic to Minecraft."
+}
