@@ -1,0 +1,10 @@
+{
+  "mod_id": "storagedrawers",
+  "mod_name": "Storage Drawers",
+  "mod_dir": "/Storage_Drawers/",
+  "mod_version": "v10.2.1",
+  "mc_version": "1.18.2",
+  "mod_authors": ["jaquadro", "Texelsaur"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers",
+  "description": "This mod adds new storage solutions to your workshops that resembles a mix of Jabba Barrels and Bibliocraft Item Shelves over traditional storage containers."
+}

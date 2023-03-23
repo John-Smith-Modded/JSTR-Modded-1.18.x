@@ -1,0 +1,10 @@
+{
+  "mod_id": "pamhc2trees",
+  "mod_name": "Pam's HarvestCraft 2 - Trees",
+  "mod_dir": "/Pams_Harvestcraft_2_Trees/",
+  "mod_version": "v1.0.4",
+  "mc_version": "1.18.2",
+  "mod_authors": ["Pamela Collins", "pamharvestcraft"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees",
+  "description": "Expanding minecraft's food system."
+}
